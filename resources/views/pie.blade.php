@@ -43,7 +43,7 @@
 
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2020 Copyright:
-    <a href="https://mdbootstrap.com/"> quieroamimascota.com </a>
+    <a href="https://mdbootstrap.com/"> https://www.hipermascotas.com/ </a>
   </div>
   <!-- Copyright -->
 
